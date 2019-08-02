@@ -11,5 +11,7 @@ int main(){
                 temp=x;
                 y=x;
                 x=temp;
+               printf("After Swapping\n"); 
+               printf("X : %d\nY: %d\n",x,y);
 
 }
