@@ -17,6 +17,9 @@ int main(){
 		c=a+b;
 		printf("result is c=%d",c);
 
+		printf("hello how are you");
+		printf("hellow");
+
 
 
 }
