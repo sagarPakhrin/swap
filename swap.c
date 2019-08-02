@@ -3,7 +3,7 @@
 int main(){
 		int x = 10;
 		int y = 20;
-
+			
 		printf("Before Swapping\n");
 		printf("X : %d\nY: %d\n",x,y);
 
@@ -11,5 +11,6 @@ int main(){
 		temp=x;
 		y=x;
 		x=temp;
-		printf("Temp=%d",temp); 
+		printf("AFter Swapping"\n);
+		printf("X:%d \n Y:%d",x,y);
 }
