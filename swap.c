@@ -1,11 +1,16 @@
 #include <stdio.h>
+#include<conio.h>
 
-int main(){
-		int x = 134;
+int main()
+{
+		int x = 10;
+
+
 		int y = 20;
 
 		printf("Before Swapping\n");
 		printf("X : %d\nY: %d\n",x,y);
+
           
 int temp:
 temp=x:
