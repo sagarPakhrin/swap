@@ -10,4 +10,7 @@ int main(){
 		temp = x;
 		y = x;
 		x = temp;
+
+		printf("After Swapping \n");
+		printf("X : %d\n Y : %d\n",x,y);
 }
