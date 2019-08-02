@@ -14,5 +14,7 @@ int main()
 		x=y;
 		y=temp;
 
+		printf("After Swapping\n");
+		printf("X : %d\nY: %d\n",x,y);
 		getche();
 }
